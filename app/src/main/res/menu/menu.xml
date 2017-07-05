@@ -1,0 +1,10 @@
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:id="@+id/ekle"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="@string/ekle"
+        android:showAsAction="always"
+        tools:ignore="AppCompatResource" />
+
+</menu>
